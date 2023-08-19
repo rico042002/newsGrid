@@ -284,6 +284,7 @@ h6 {
 #home-articles .articles-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
 }
 
 #home-articles .articles-container > *:first-child,
